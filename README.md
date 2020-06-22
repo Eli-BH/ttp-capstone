@@ -20,7 +20,7 @@ Back End:
 Deployed on Heroku
 ​
 API: 
-	kitsu.io/api
+	kitsu.io/api 
 	
 Descripiton: 
 	Zenime is based on the kitsu.io website and api, and functions as 
